@@ -9,4 +9,10 @@ For the back-end, we used NodeJS with Express to build an API and saved event da
 <p align="center">
   <img src='screenshots/freefoodfinder.png' width="750px"/>
 </p>
+<br>
 
+## Double Agent Intelligence -- [Site](http://double-agent-intel.herokuapp.com/) + [Code](https://github.com/owenauch/agent-intelligence)
+A simple project that offered me a chance to learn how to configure a Spring Boot backend server to serve location data, and then a Bootstrap and LeafletJS front-end to visualize the data.
+<p align="center">
+  <img src='screenshots/doubleagent.png' width="750px"/>
+</p>
