@@ -1,5 +1,5 @@
 # Personal Portfolio
-A running list of my programming projects <br>
+A running list of my programming projects. <br>
 Feel free to reach out to me to me about projects, opportunities or anything else at owenauch@wustl.edu
 
 ## Professional
