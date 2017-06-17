@@ -1,4 +1,5 @@
-# Personal Portfolio (Still under construction)
+# Personal Portfolio
+<img align='right' src='https://avatars2.githubusercontent.com/u/20526330?v=3&s=460' width="100px"/>
 A running list of my programming projects <br>
 Feel free to reach out to me to me about projects, opportunities or anything else at owenauch@wustl.edu
 
