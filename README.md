@@ -12,7 +12,7 @@ I currently work with SOLD Technologies Inc developing an ecommerce app that gam
 
 ## Personal
 ### Double Agent Intelligence -- [Site](http://double-agent-intel.herokuapp.com/) + [Code](https://github.com/owenauch/agent-intelligence)
-A simple project that offered me a chance to learn how to configure a Spring Boot backend server to serve location data, and then a Bootstrap and LeafletJS front-end to visualize the data.
+A simple project that offered me a chance to learn how to configure a Spring Boot backend server to serve location data, and then a Bootstrap and LeafletJS front-end to visualize the data. Being a poor college student, it's hosted on Heroku's free tier, so give the dyno a moment to wake up if you click the link.
 <p align="center">
   <img src='screenshots/doubleagent.png' width="750px"/>
 </p>
