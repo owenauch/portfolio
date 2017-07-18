@@ -11,6 +11,16 @@ I currently work with SOLD Technologies Inc developing an ecommerce app that gam
 <br>
 
 ## Personal
+
+### Queen Nine -- [App Code](https://github.com/owenauch/queen-nine) + [Server Code](https://github.com/owenauch/queen-nine-backend)
+<p align="center">
+  <img src='https://github.com/owenauch/queen-nine/blob/master/assets/queen-nine.gif?raw=true' width="200px" />
+</p>
+Every summer, my friends and I play the card game Euchre constantly, and after countless arguments about whether different hands are good enough to call trump (an essential part of the game), I decided to make an app for us to record our calls. Queen Nine is an app that lets a Euchre player record the trump cards in his hand, the trump suit, the rating of the non-trump cards in his hand, and whether he won or lost the trick. It's designed to be simple and quick, so information about the last hand can be entered as cards are being shuffled for the next hand.
+
+I used React Native and Expo to build the app, which allows it to easily be run on ios and android. The backend server was built in NodeJS, using Express and Mongoose to authenticate users and store calls in a MongoDB database on MLab. Tests for the app are run using Jest. Because I wrote both the frontend and the backend in Javascript, this app was incredibly quick to develop, and I had a blast learning these technologies and applying them to a project that I knew my friends and I would use frequently. We've recorded hundreds of calls already, and I hope to extend the app soon to use the data to predict which hands are truly worth calling trump on, and finally settle some of our arguments once and for all.
+<br>
+
 ### Double Agent Intelligence -- [Site](http://double-agent-intel.herokuapp.com/) + [Code](https://github.com/owenauch/agent-intelligence)
 A simple project that offered me a chance to learn how to configure a Spring Boot backend server to serve location data, and then a Bootstrap and LeafletJS front-end to visualize the data. Being a poor college student, it's hosted on Heroku's free tier, so give the dyno a moment to wake up if you click the link.
 <p align="center">
