@@ -5,16 +5,16 @@ Feel free to reach out to me to me about projects, opportunities or anything els
 ## Professional
 ### SOLD -- [App](https://itunes.apple.com/us/app/sold-make-shopping-a-game/id1221206557?mt=8) + [Site](https://www.withsold.com/)
 <p align="center">
-  <img src='https://static.wixstatic.com/media/f3566c_da632d4022d6406ea49dfacb2383f16b~mv2.png/v1/fill/w_318,h_110,al_c,usm_0.66_1.00_0.01/f3566c_da632d4022d6406ea49dfacb2383f16b~mv2.png' width="250px"/>
+  <img src='screenshots/sold.gif' width="250px"/>
 </p>
-I currently work with SOLD Technologies Inc developing an ecommerce app that gamifies shopping through a reverse auction system for products. The iPhone app is being developed in React Native, while the backend server is Ruby on Rails. In just a few weeks, I've developed a completely new UI for the app and became proficient in Rails from scratch while also learning the ins and outs of launching a startup and developing a complex software product.
+I worked last summer with SOLD Technologies developing an ecommerce app that gamifies shopping through a reverse auction mechanism for selling products. I was hired as an intern, but quickly assumed the role of Head of Engineering due to changes in the team, and in the short time I was there, I developed an MVP into a production application with hundreds of monthly active users. I learned more quickly than I ever have at SOLD because virtually every concept, library, framework and technology I implemented was new to me before the summer, and I loved the fast-paced environment and chance to think creatively, make significant technical decisions and solve hard problems. Our iPhone application has a React Native frontend with a Ruby on Rails and PostgresQL backend, which were exciting and fun tecnologies to learn and work in.
 <br>
 
 ## Personal
 
 ### Queen Nine -- [App Code](https://github.com/owenauch/queen-nine) + [Server Code](https://github.com/owenauch/queen-nine-backend)
 <p align="center">
-  <img src='https://github.com/owenauch/queen-nine/blob/master/assets/queen-nine.gif?raw=true' width="200px" />
+  <img src='https://github.com/owenauch/queen-nine/blob/master/assets/queen-nine.gif?raw=true' width="250px" />
 </p>
 Every summer, my friends and I play the card game Euchre constantly, and after countless arguments about whether different hands are good enough to call trump (an essential part of the game), I decided to make an app for us to record our calls. Queen Nine is an app that lets a Euchre player record the trump cards in his hand, the trump suit, the rating of the non-trump cards in his hand, and whether he won or lost the trick. It's designed to be simple and quick, so information about the last hand can be entered as cards are being shuffled for the next hand.
 
