@@ -32,7 +32,7 @@ A simple project that offered me a chance to learn how to configure a Spring Boo
 <p align="center">
   <img src='https://github.com/owenauch/doubting-thomas-explorer/blob/master/images/runstepper_gif.gif' width="400px"/>
 </p>
-Because of the deep influence of faith on my life, I thought it would be fun to make a Python scraper and script to explore Bible cross references. The first script takes in a user-specified verse and displays its cross-references, and then allows the user to find the cross references of any of the verses it returns. The second script takes in a user-specified verse and recursively finds cross references using a depth-first search algorithm, and formats the information to a CSV file. Both scripts scrape from [Bible Gateway](https://www.biblegateway.com/), and developing them taught me a tremendous amount about scraping and recursive algorithms.
+Because of the deep influence of faith on my life, I thought it would be fun to make a Python scraper and script to explore Bible cross references. The first script takes in a user-specified verse and displays its cross-references, and then allows the user to find the cross references of any of the verses it returns. The second script takes in a user-specified verse and recursively finds cross references using a depth-first search algorithm, and formats the information to a CSV file. Both scripts scrape from Bible Gateway, and developing them taught me a tremendous amount about scraping and recursive algorithms.
 <br>
 
 ### The Porzingis Project -- [Code](https://github.com/owenauch/NBA-Fantasy-Optimizer)
@@ -50,4 +50,4 @@ For the back-end, we used NodeJS with Express to build an API and saved event da
 <br>
 
 ### Multi-Room Chat Server -- [Site](http://ec2-52-14-44-219.us-east-2.compute.amazonaws.com:3456/chat.html) + [Code](https://github.com/owenauch/Class-Assignments/tree/master/CSE%20330%20(Rapid%20Prototype%20Development%20and%20Creative%20Programming)/Multi-Room%20Chat%20Server)
-As a chance to learn the basics of asynchronous web communication and web sockets, [Visaal]((https://github.com/visaals) and I built a multi-room chat server with Node.JS and Socket.io. This taught us how to use a server to communicate with many clients simultaneously and exposed us to several new and developing technologies in web development.
+As a chance to learn the basics of asynchronous web communication and web sockets, [Visaal](https://github.com/visaals) and I built a multi-room chat server with Node.JS and Socket.io. This taught us how to use a server to communicate with many clients simultaneously and exposed us to several new and developing technologies in web development.
