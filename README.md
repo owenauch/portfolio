@@ -30,9 +30,16 @@ A simple project that offered me a chance to learn how to configure a Spring Boo
 
 ### Doubting Thomas Explorer -- [Code](https://github.com/owenauch/doubting-thomas-explorer)
 <p align="center">
-  <img src='https://github.com/owenauch/doubting-thomas-explorer/blob/master/images/runstepper_gif.gif' width="400px"/>
+  <img src='https://github.com/owenauch/doubting-thomas-explorer/blob/master/images/runstepper_gif.gif' width="500px"/>
 </p>
 Because of the deep influence of faith on my life, I thought it would be fun to make a Python scraper and script to explore Bible cross references. The first script takes in a user-specified verse and displays its cross-references, and then allows the user to find the cross references of any of the verses it returns. The second script takes in a user-specified verse and recursively finds cross references using a depth-first search algorithm, and formats the information to a CSV file. Both scripts scrape from Bible Gateway, and developing them taught me a tremendous amount about scraping and recursive algorithms.
+<br>
+
+### The Banterzone Web Site -- [Site](http://washubanterzone.com/)
+<p align="center">
+  <img src='screenshots/banterzone.png' width="500px"/>
+</p>
+At Wash U, a few friends and I host a weekly sports talk radio show on the university radio station called The Banterzone. After a few weeks, we decided that we wanted to be able to interact with our listeners more directly, so I built a simple website for our radio show. Hosted at www.washubanterzone.com, our site allows users to stream our show online and submit questions and conversation topics, which all the hosts can see once they log in. I built the site in PHP with a basic MySQL database to hold user and question data, and it's hosted on Amazon Web Services. We've received some awesome questions and feedback from listeners because of the site, and building it was a great chance to better learn PHP, SQL, web app deployment, and user experience.
 <br>
 
 ### The Porzingis Project -- [Code](https://github.com/owenauch/NBA-Fantasy-Optimizer)
