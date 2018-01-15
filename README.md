@@ -7,7 +7,7 @@ Feel free to reach out to me to me about projects, opportunities or anything els
 <p align="center">
   <img src='screenshots/sold.gif' width="250px"/>
 </p>
-I worked last summer with SOLD Technologies developing an ecommerce app that gamifies shopping through a reverse auction mechanism for selling products. I was hired as an intern, but quickly assumed the role of Head of Engineering due to changes in the team, and in the short time I was there, I developed an MVP into a production application with hundreds of monthly active users. I learned more quickly than I ever have at SOLD because virtually every concept, library, framework and technology I implemented was new to me before the summer, and I loved the fast-paced environment and chance to think creatively, make significant technical decisions and solve hard problems. Our iPhone application has a React Native frontend with a Ruby on Rails and PostgresQL backend, which were exciting and fun tecnologies to learn and work in.
+I worked last summer with SOLD Technologies developing an ecommerce app that gamifies shopping through a reverse auction mechanism for selling products. I was hired as an intern, but quickly assumed the role of Head of Engineering due to changes in the team, and in the short time I was there, I developed an MVP into a production application with hundreds of monthly active users. I learned more quickly than I ever have at SOLD because virtually every concept, library, framework and technology I implemented was new to me before the summer, and I loved the fast-paced environment and chance to think creatively, make significant technical decisions and solve hard problems. Our iPhone application has a React Native frontend with a Ruby on Rails and PostgreSQL backend, which were exciting and fun tecnologies to learn and work in.
 <br>
 
 ## Personal
@@ -18,7 +18,9 @@ I worked last summer with SOLD Technologies developing an ecommerce app that gam
 </p>
 Every summer, my friends and I play the card game Euchre constantly, and after countless arguments about whether different hands are good enough to call trump (an essential part of the game), I decided to make an app for us to record our calls. Queen Nine is an app that lets a Euchre player record the trump cards in his hand, the trump suit, the rating of the non-trump cards in his hand, and whether he won or lost the trick. It's designed to be simple and quick, so information about the last hand can be entered as cards are being shuffled for the next hand.
 
-I used React Native and Expo to build the app, which allows it to easily be run on ios and android. The backend server was built in NodeJS, using Express and Mongoose to authenticate users and store calls in a MongoDB database on MLab. Tests for the app are run using Jest. Because I wrote both the frontend and the backend in Javascript, this app was incredibly quick to develop, and I had a blast learning these technologies and applying them to a project that I knew my friends and I would use frequently. We've recorded hundreds of calls already, and I hope to extend the app soon to use the data to predict which hands are truly worth calling trump on, and finally settle some of our arguments once and for all.
+I used React Native and Expo to build the app, which allows it to easily be run on ios and android. The backend server was built in NodeJS, using Express and Mongoose to authenticate users and store calls in a MongoDB database on MLab. Tests for the app are run using Jest. Because I wrote both the frontend and the backend in Javascript, this app was incredibly quick to develop, and I had a blast learning these technologies and applying them to a project that I knew my friends and I would use frequently.
+
+Furthermore, after recording hundreds of calls, I trained a machine learning model to predict the chance of winning a hand given a specific hand using the data via Amazon Machine Learning. We learned some really interesting things from the model, as it was much more optimistic about the chances of winning than we normally are. I hope to continue to make the model more accurate as we gather more data. 
 <br>
 
 ### Double Agent Intelligence -- [Site](http://double-agent-intel.herokuapp.com/) + [Code](https://github.com/owenauch/agent-intelligence)
@@ -30,9 +32,16 @@ A simple project that offered me a chance to learn how to configure a Spring Boo
 
 ### Doubting Thomas Explorer -- [Code](https://github.com/owenauch/doubting-thomas-explorer)
 <p align="center">
-  <img src='https://github.com/owenauch/doubting-thomas-explorer/blob/master/images/runstepper_gif.gif' width="400px"/>
+  <img src='https://github.com/owenauch/doubting-thomas-explorer/blob/master/images/runstepper_gif.gif' width="500px"/>
 </p>
 Because of the deep influence of faith on my life, I thought it would be fun to make a Python scraper and script to explore Bible cross references. The first script takes in a user-specified verse and displays its cross-references, and then allows the user to find the cross references of any of the verses it returns. The second script takes in a user-specified verse and recursively finds cross references using a depth-first search algorithm, and formats the information to a CSV file. Both scripts scrape from Bible Gateway, and developing them taught me a tremendous amount about scraping and recursive algorithms.
+<br>
+
+### The Banterzone Web Site -- [Site](http://washubanterzone.com/)
+<p align="center">
+  <img src='screenshots/banterzone.png' width="500px"/>
+</p>
+At Wash U, a few friends and I host a weekly sports talk radio show on the university radio station called The Banterzone. After a few weeks, we decided that we wanted to be able to interact with our listeners more directly, so I built a simple website for our radio show. Hosted at www.washubanterzone.com, our site allows users to stream our show online and submit questions and conversation topics, which all the hosts can see once they log in. I built the site in PHP with a basic MySQL database to hold user and question data, and it's hosted on Amazon Web Services. We've received some awesome questions and feedback from listeners because of the site, and building it was a great chance to better learn PHP, SQL, web app deployment, and user experience.
 <br>
 
 ### The Porzingis Project -- [Code](https://github.com/owenauch/NBA-Fantasy-Optimizer)
