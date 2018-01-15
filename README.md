@@ -3,6 +3,17 @@ A running list of my programming adventures. <br>
 Feel free to reach out to me to me about projects, opportunities or anything else at owenauch@wustl.edu
 
 ## Professional
+### Asktag -- A mobile app for social questions.
+<p align="center">
+  <img src='screenshots/asktagicon.png' width="250px"/>
+</p>
+During my junior year of college, I was asked by a few investors if I was interested in bootstrapping an MVP for their mobile app concept. Their idea was Asktag, a mobile app for users to ask for suggestions from one another via hashtags. As an opportunity to lead the development of a full stack app from scratch, I agreed and got to work. I diagrammed and implmented a database in Postgresql, and linked it up with a Node backend using Sequelize as an ORM. I also developed the application front end with React Native from a provided design, focusing intently on building modular and functional components in order to maximize reuse and minimize technical debt. Furthermore, I took on the role of a product manager as well, setting goals and timelines for myself in the development process. I eventually passed the project off to another developer, but in my time working on the app, I became a far more competent full stack developer, improving my ability to understand the technical requirements of a project and implement them efficiently and effectively. Additionally, I improved my ability learn new technologies quickly and act independently to overcome challenging problems.
+<h4 align="center">Asktag in development:</h4>
+<p align="center">
+  <img src='screenshots/asktaggif.gif' width="250px"/>
+</p>
+<br>
+
 ### SOLD -- [App](https://itunes.apple.com/us/app/sold-make-shopping-a-game/id1221206557?mt=8) + [Site](https://www.withsold.com/)
 <p align="center">
   <img src='screenshots/sold.gif' width="250px"/>
