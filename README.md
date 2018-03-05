@@ -23,6 +23,15 @@ I worked last summer with SOLD Technologies developing an ecommerce app that gam
 
 ## Personal
 
+### Ethereum Bar Bet -- [Contract and Frontend Code](https://github.com/owenauch/bar-bet-ethereum)
+<p align="center">
+  <img src='https://github.com/owenauch/bar-bet-ethereum/blob/master/bar-bet-eth-screenshot.png?raw=true' width="850px" />
+</p>
+After some initial skepticism, I have fallen deep down the blockchain rabbit hole and have been learning as much as I can about the technology. I learn best by building something myself, so I decided to build a decentralized app (dapp) on the Ethereum network as a chance to better understand the technology. I made a dapp to allow two people to place a basic bar bet arbitrated by a third party, all decentralized on Ethereum. I wrote the smart contract in Solidity, which I found very easy and intuitive to work with, and wrote the frontend in React using web3.js and an integration with Metamask. The dapp allows a person to create a bet by sending ether to the contract, and then the other person taking the bet can post the same amount of ether in order to accept the bet. Then, a third party designated beforehand can decide the winner of the bet, which awards the entire pot of ether to the winner. The React interface makes the contract easy to interact with.
+
+I had a lot of fun making this dapp and learning more about blockchain tech. Blockchain and cryptocurrencies are my main area of interest at the moment, so feel free to reach out with project ideas or opportunities in this space. I'm hoping to learn more in any way I can.
+
+
 ### Queen Nine -- [App Code](https://github.com/owenauch/queen-nine) + [Server Code](https://github.com/owenauch/queen-nine-backend)
 <p align="center">
   <img src='https://github.com/owenauch/queen-nine/blob/master/assets/queen-nine.gif?raw=true' width="250px" />
@@ -33,6 +42,15 @@ I used React Native and Expo to build the app, which allows it to easily be run 
 
 Furthermore, after recording hundreds of calls, I trained a machine learning model to predict the chance of winning a hand given a specific hand using the data via Amazon Machine Learning. We learned some really interesting things from the model, as it was much more optimistic about the chances of winning than we normally are. I hope to continue to make the model more accurate as we gather more data. 
 <br>
+
+### Fantasy Soccer League -- [Frontend Code](https://github.com/owenauch/react-fantasy-soccer) + [Backend Code](https://github.com/owenauch/django-fantasy-soccer)
+I've been a soccer fanatic for years, and I've played and watched soccer constantly for as long as I can remember. One year, my friends and I decided instead of fantasy football, we wanted to start a fantasy soccer league. However, as we searched the internet, we couldn't find a service that met our vision for the league -- we wanted a league that resembled real soccer management as closely as possible. Our league had to have all 5 top European leagues, players bought and sold with in-league money, and the ability for each person in the league to retain their league for multiple years instead of redrafting each year.
+
+Because a league of this sort didn't exist, we decided to create it ourselves. We wrote out a 10 page rule document and ran the league through Slack and Google Sheets. It was a tremendous success in its first year, but setting lineups and gathering player stats was time-consuming, so I set out to create a custom website to manage the league.
+
+I decided to learn Django for the backend, and used Django Rest Framework to create an API that fetched data on players periodically from an API and proccessed it to keep updated stats for every soccer player in the world. The backend also stores each person in the league's weekly rosters and calculates their players' scores in real-time. League members update their lineups and view their scores from a React frontend that was custom-built as well.
+
+This was a really challenging project but eventually worked as designed. However, the site is currently down because we maxed out the free trial of the stats API and couldn't afford to pay for a subscription. I believe that a fantasy soccer site of this sort could have mass market appeal, so if you are interested in working on or funding this idea, please let me know. It's a project I would love to pursue further.
 
 ### Double Agent Intelligence -- [Site](http://double-agent-intel.herokuapp.com/) + [Code](https://github.com/owenauch/agent-intelligence)
 A simple project that offered me a chance to learn how to configure a Spring Boot backend server to serve location data, and then a Bootstrap and LeafletJS front-end to visualize the data. Being a poor college student, it's hosted on Heroku's free tier, so give the dyno a moment to wake up if you click the link.
