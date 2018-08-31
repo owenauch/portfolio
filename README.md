@@ -1,6 +1,6 @@
 # Personal Portfolio
 A running list of my adventures in technology and business. <br>
-Feel free to reach out to me to me about projects, opportunities or anything else at owenauch@wustl.edu
+Feel free to reach out to me to me about projects, opportunities or anything else at owenauch@gmail.com
 
 ## Professional
 ### [CrowdCrunch](www.crowdcrunch.io) -- The future of Cloud is Crowd.
