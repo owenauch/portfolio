@@ -1,9 +1,18 @@
 # Personal Portfolio
-A running list of my programming adventures. <br>
+A running list of my adventures in technology and business. <br>
 Feel free to reach out to me to me about projects, opportunities or anything else at owenauch@wustl.edu
 
 ## Professional
-### Asktag -- A mobile app for social questions.
+### [CrowdCrunch](www.crowdcrunch.io) -- The future of Cloud is Crowd.
+<p align="center">
+  <img src='https://media.licdn.com/media-proxy/ext?w=800&h=800&hash=aFFzQpqxhTComiw30ngSkwKSUIc%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6uwBUY1wx26LqNoVqp7QlESY3JBmbjBHvu5IvVJGjsK8DaLbqnrFhCKSgIlgZkeen6QmPkQJSjd9W4IsMl2sWwcpXiZVVVb0Uz1z5LuoRiOxpxtsGgBO2oYi0e0bpMbn7uKbPqKUIxDQ' width="250px"/>
+</p>
+I spent last summer in Nashville, Tennessee working with CrowdCrunch, a startup developing an edge computing microservices platform using peer-to-peer network of consumer-grade hardware. This was easily the most technically challenging and complex project with problems that had never been solved in a production context. I spent a portion of the summer researching and experimenting in the area of networking, trying to solve the problem of connecting NAT'ed machines to a container orchestration framework. After solving that problem, I spent the remainder of my time building out a prototype distributed microservice platform using Docker, Kubernetes, IPFS and other brand-new distributed computing technologies. I also spent a lot of time thinking about, strategizing and eventually developing a plan for the software architecture of the CrowdCrunch platform as the product moves closer to shipping to consumers.
+
+Though it brought tons of frustration, headaches and late night ponderings, I really enjoyed researching, experimenting and eventually solving the networking problems CrowdCrunch faced. It was really amazing to come up with a solution to a problem that hadn't really been tried at scale before -- blazing a trail in this area was as rewarding as it was challenging. I also loved being able to think deeply about the business goals, market conditions, and other economic factors and then develop a software architecture plan that meets our goals. Working with others in the sweet spot between business and technology and thinking critically about both at the same time is exhilarating for me, and I'd love to continue to work in that area in the future.
+<br>
+
+### [Asktag](https://itunes.apple.com/us/app/asktag/id1323713954) -- A mobile app for social questions.
 <p align="center">
   <img src='screenshots/asktagicon.png' width="250px"/>
 </p>
@@ -18,7 +27,7 @@ During my junior year of college, I was asked by a few investors if I was intere
 <p align="center">
   <img src='screenshots/sold.gif' width="250px"/>
 </p>
-I worked last summer with SOLD Technologies developing an ecommerce app that gamifies shopping through a reverse auction mechanism for selling products. I was hired as an intern, but quickly assumed the role of Head of Engineering due to changes in the team, and in the short time I was there, I developed an MVP into a production application with hundreds of monthly active users. I learned more quickly than I ever have at SOLD because virtually every concept, library, framework and technology I implemented was new to me before the summer, and I loved the fast-paced environment and chance to think creatively, make significant technical decisions and solve hard problems. Our iPhone application has a React Native frontend with a Ruby on Rails and PostgreSQL backend, which were exciting and fun tecnologies to learn and work in.
+I worked one summer with SOLD Technologies developing an ecommerce app that gamifies shopping through a reverse auction mechanism for selling products. I was hired as an intern, but quickly assumed the role of Head of Engineering due to changes in the team, and in the short time I was there, I developed an MVP into a production application with hundreds of monthly active users. I learned more quickly than I ever have at SOLD because virtually every concept, library, framework and technology I implemented was new to me before the summer, and I loved the fast-paced environment and chance to think creatively, make significant technical decisions and solve hard problems. Our iPhone application has a React Native frontend with a Ruby on Rails and PostgreSQL backend, which were exciting and fun tecnologies to learn and work in.
 <br>
 
 ## Personal
